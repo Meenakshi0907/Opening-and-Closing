@@ -42,7 +42,7 @@ def plot(img):
 
 image = np.zeros((200,1150),dtype='uint8')
 font=cv2.FONT_HERSHEY_SCRIPT_COMPLEX
-cv2.putText(image,'Shafeeq Ahamed',(20,140),font,5,(255),3,cv2.LINE_AA)
+cv2.putText(image,'Meenakshi',(20,140),font,5,(255),3,cv2.LINE_AA)
 plot(image)
 ```
 
